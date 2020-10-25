@@ -30,5 +30,5 @@
 + Zylos niszczy planetę
 + zwiększenie się czujności w hyperspace-ie (focus = (0-idealnie, 3-najgorzej))
 #### cel:
-+ wylecieć z galaktyki
++ maksymalizacja przyszłych nagród
 + dolecieć na Solaris
