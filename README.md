@@ -8,6 +8,7 @@
 + GYM
 + Pandas - obróbka wyników
 + Seaborn - wizualizacja wyników
++ Tensorflow
 ## Ujęcie problemu w postaci problemu decyzyjnego Markowa
 #### Statek kosmiczny
 #### stan:
@@ -65,6 +66,8 @@
 + Stan: Red zone (walka z flotą wroga)
 + Cel: Zniszczenie floty wroga, utrzymanie jak największej liczby żyć
 + Akcje: Poruszanie się statku (sterowanie jest na odwrót), strzał
-
-
+## Epizod
+Każdy epizod kończy się po trafieniu agenta do stanu terminalnego.
+## Stan terminalny
+Stan terminalny osiągamy poprzez utratę wszystkich żyć statku lub osiągnięcu celu gry, czyli dotarcie na Solaris.
 
