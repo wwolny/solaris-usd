@@ -9,6 +9,7 @@
 + Pandas - obróbka wyników
 + Seaborn - wizualizacja wyników
 + Tensorflow
++ keras-gym
 ## Ujęcie problemu w postaci problemu decyzyjnego Markowa
 #### Statek kosmiczny
 #### stan:
@@ -36,7 +37,7 @@
 + dolecieć na Solaris
 ## Interakcje
 + Stan: SCANNER
-+ Cel: Maksymalizacja przyszłych nagród 
++ Cel: Maksymalizacja przyszłych nagród
 + Akcje: Wybór sektora
 <br><br>
 + Stan: Federation Planet
@@ -55,7 +56,7 @@
 + Cel: Zniszczenie floty wroga, utrzymanie jak największej liczby żyć
 + Akcje: Poruszanie się statku, strzał
 <br><br>
-+ Stan: Corridor 
++ Stan: Corridor
 + Cel: Zniszczenie planety (znalezienie stacji dokującej -> znalezienie kluczy)
 + Akcje: Poruszanie się statku, strzał
 <br><br>
@@ -70,4 +71,3 @@
 Każdy epizod kończy się po trafieniu agenta do stanu terminalnego.
 ## Stan terminalny
 Stan terminalny osiągamy poprzez utratę wszystkich żyć statku lub osiągnięcu celu gry, czyli dotarcie na Solaris.
-
