@@ -2,7 +2,7 @@
 ## Język programowania
 + Python
 ## Algorytmy
-+ Q-learning
++ Deep Q-learning
 + SARSA
 ## Biblioteki
 + GYM
